@@ -1,0 +1,8 @@
+&keyParameters
+
+timeWindowMain = Aggregated, 
+networkT = 100,
+isAggregatedNetworkWeighted = 0,
+suckerPayoff = 0.0,
+
+/
