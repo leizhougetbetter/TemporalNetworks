@@ -24,7 +24,7 @@ temporalNetPars.inp                file for input parameters
 
 filePath1Hour.txt                  the file path of the folder for snapshots under the time window of 1Hour
 
-Original                           folder for the output of the program, its subfolders store the outputs for different time windows (e.g., 1Hour, 2Hour¡­)
+Original                           folder for the output of the program, its subfolders store the outputs for different time windows (e.g., 1Hour, 2Hour)
 
 RUNNING & OUTPUTS
 ------------
@@ -37,7 +37,7 @@ To start running this program
     *) compile the Fortran program and start running
 
 Outputs of this program:
-    *) the outputs of this program are stored in the folder ¡°Original\XHour\¡± under the same working directory
+    *) the outputs of this program must be stored in the folder \Original\XHour\ (X=1,2, etc) under the same working directory
     *) Output frequencyC_b stores the mean frequency of cooperators averaged over all the repetitions for each $b$ ($b$ is the only parameter in the payoff matrix)
     *) Output frequencyC_b_Repeat stores the frequency of cooperators for each repetition 
     *) Output numDominate stores the number of times that the program ends in all-C state, coexistence, and all-D state over all repetitions
