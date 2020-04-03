@@ -6,7 +6,7 @@ README for MC simulation code
 DESCRIPTION
 -----------
 
-This is Mento Carlo simulation code for results in ER random network.
+This is Monte Carlo simulation code for results in ER random network.
 Running the original code, results in Figure 3a (g=100, static) can be obtained.
 Changing p and g in function main() of the code, other results in Figure 3a can be obtained.
 
