@@ -47,6 +47,6 @@ QUESTIONS
 
 For any question about this Fortran program, please contact
 
-Dr. Lei Zhou, Email: weifengzhl2016@gmail.com
+Dr. Lei Zhou, Email: weifengzhl2012@gmail.com
 
 
